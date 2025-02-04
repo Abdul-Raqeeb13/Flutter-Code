@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "88829939331",
+    "firebase_url": "https://react-native-firebase-f20df-default-rtdb.firebaseio.com",
+    "project_id": "react-native-firebase-f20df",
+    "storage_bucket": "react-native-firebase-f20df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88829939331:android:a7a0c245af41568cb615b6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYyaOO3tIrtZtQojjVlE7ClNqBTyaI3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88829939331:android:c3143aabc5ca320eb615b6",
+        "android_client_info": {
+          "package_name": "com.react_native_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVYyaOO3tIrtZtQojjVlE7ClNqBTyaI3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
